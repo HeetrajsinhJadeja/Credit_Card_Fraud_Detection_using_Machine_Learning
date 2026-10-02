@@ -1,5 +1,4 @@
-# Credit Card Fraud Detection — Model Comparison
-
+# Credit Card Fraud Detection Machine Learning
 A machine learning project that detects fraudulent credit card transactions by training and comparing four classification algorithms: **Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM)**.
 
 The project focuses on handling an imbalanced dataset using **random undersampling** and evaluating model performance with metrics such as accuracy, precision, recall, F1-score, ROC-AUC, and PR-AUC.
