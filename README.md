@@ -23,4 +23,10 @@ The project focuses on handling an imbalanced dataset using **random undersampli
 * Scikit-learn
 * Jupyter Notebook
 
+## Dataset
+
+This project uses the **Credit Card Fraud Detection Dataset** from Kaggle.
+
+* **Dataset Link:** [Credit Card Fraud Detection — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 **Goal:** Explore and compare machine learning models for identifying fraudulent credit card transactions while considering the challenges of imbalanced data.
