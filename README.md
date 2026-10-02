@@ -23,7 +23,7 @@ The project focuses on handling an imbalanced dataset using **random undersampli
 * Scikit-learn
 * Jupyter Notebook
 
-## Dataset
+### Dataset
 
 This project uses the **Credit Card Fraud Detection Dataset** from Kaggle.
 
